@@ -94,6 +94,7 @@ idna==3.7
 iniconfig==2.0.0
 ipykernel==6.29.5
 ipython==8.28.0
+ipywidgets==8.1.5
 itsdangerous==2.1.2
 jaeger-client==4.4.0
 jedi==0.19.1
@@ -103,6 +104,7 @@ joblib==1.4.2
 jsonschema==3.2.0
 jupyter_client==8.6.3
 jupyter_core==5.7.2
+jupyterlab_widgets==3.0.13
 kiwisolver==1.4.5
 kubernetes==30.1.0
 labelbox==3.67.0
@@ -230,5 +232,6 @@ wcwidth==0.2.13
 websocket-client==1.8.0
 websockets==12.0
 Werkzeug==2.2.3
+widgetsnbextension==4.0.13
 yarl==1.9.4
 yolov5==7.0.13
